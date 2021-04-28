@@ -180,6 +180,9 @@ h3 {
 
 .spotify-icon-white {
     width: 188px;
+    position: absolute;
+    left: 50%;
+    margin-left: -94px;
 }
 
 .spotify-app {
